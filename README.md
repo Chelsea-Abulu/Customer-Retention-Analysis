@@ -1,7 +1,9 @@
 # Customer Retention Analysis
 
-### Project Overview
+## Project Overview
 This project aims to analyze customer retention and churn rates using the dataset to identify key insights and recommendations for improving customer engagement and revenue.
+
+**Data Source** - The primary dataset for this analysis is the "customer_retention.xlsx" file, which includes comprehensive details on customer profiles, contract terms, payment options etc.
 
 **Tool Used:** - Power BI
 
