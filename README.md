@@ -27,7 +27,7 @@ Below are the DAX formulas used to calculate the churn and retention rates, whic
 - **Retention and Churn:** The retention rate is 73.46%, while the churn rate stands at 26.54%.
 - **Revenue Insights:** Total charges across all customers amounted to $16.06 million, with an average monthly charge per customer of $64.76.
 
-### Analysis:
+### Insights:
 - **Gender Distribution:** The nearly equal split between male and female customers suggests a balanced customer base. However, further analysis could identify gender-specific preferences or pain points affecting retention differently.
 - **Retention vs. Churn:** While a 73.46% retention rate is positive, the 26.54% churn rate indicates a significant portion of customers leaving. Understanding the reasons behind this churn should be a priority.
 - **Revenue Insights:** The total charges and average monthly charges indicate moderate customer spending. It’s important to explore whether these charges are perceived as fair and if there are opportunities to increase value without causing dissatisfaction.
