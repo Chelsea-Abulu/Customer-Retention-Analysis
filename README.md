@@ -38,3 +38,7 @@ Below are the DAX formulas used to calculate the churn and retention rates, whic
 - **Gather and Act on Customer Feedback:** Regularly solicit feedback from customers through surveys or other methods, and use this feedback to improve services and address issues that could lead to dissatisfaction.
 
  Implementing the recommendations can enhance customer loyalty and drive long-term business growth.
+
+ 
+
+ [Project report](https://app.powerbi.com/view?r=eyJrIjoiMmI5NzBlNjItODg1OC00ZWI3LWI5NmYtY2E3Yjg1Y2E1NWRhIiwidCI6ImRjYjkyZTk2LWNkYzktNDg0NC05MzMyLWQwMzgwYzdjMTkyZiIsImMiOjN9)
