@@ -22,13 +22,6 @@ The EDA involved exploring the dataset to answer several key questions, such as:
 In-depth analysis was performed to understand the underlying patterns and trends within the customer data, focusing on retention, churn, and customer spending habits.
 Below are the DAX formulas used to calculate the churn and retention rates, which provide key metrics for understanding customer behavior.
 
-![churned customers ](https://github.com/user-attachments/assets/617d058b-2ebc-4d10-85d8-6a83c109e92e)
-![Churn rate ](https://github.com/user-attachments/assets/a962b062-1d14-4d9b-939f-0b5bcbd3c0bf)
-
-
-![Retained customers](https://github.com/user-attachments/assets/c1a995c0-60f7-46c0-a906-b94ca594723f)
-![retention rate](https://github.com/user-attachments/assets/5ff98c7b-dbd9-42b9-8eab-a73a1acc4c3d)
-
 ### Key Findings:
 - **Customer Demographics:** The dataset comprises 7,043 customers, with males representing 50.5% (3,556) and females 49.5% (3,487).
 - **Retention and Churn:** The retention rate is 73.46%, while the churn rate stands at 26.54%.
