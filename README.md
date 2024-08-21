@@ -23,7 +23,6 @@ The EDA involved exploring the dataset to answer several key questions, such as:
 
 ### Data Analysis:
 In-depth analysis was performed to understand the underlying patterns and trends within the customer data, focusing on retention, churn, and customer spending habits.
-Below are the DAX formulas used to calculate the churn and retention rates, which provide key metrics for understanding customer behavior.
 
 ### Key Findings:
 - **Customer Demographics:** The dataset comprises 7,043 customers, with males representing 50.5% (3,556) and females 49.5% (3,487).
