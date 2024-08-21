@@ -10,6 +10,9 @@ This project aims to analyze customer retention and churn rates using the datase
 ### Data Cleaning and Preparation:
 The dataset was thoroughly cleaned by handling missing values, correcting data types, and ensuring consistency across all entries. This step was crucial to prepare the data for accurate analysis and visualization.
 
+![Customer churn report pic](https://github.com/user-attachments/assets/4b3c3673-123c-4942-aa60-803969f08c36)
+
+
 ### Exploratory Data Analysis (EDA):
 The EDA involved exploring the dataset to answer several key questions, such as:
 - What is the total number of customers?
